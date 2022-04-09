@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/kamran1007/covid_19tracker.github.io/static/css/main.d09b88ee.chunk.css",
-    "main.js": "/kamran1007/covid_19tracker.github.io/static/js/main.a16d6dbe.chunk.js",
-    "main.js.map": "/kamran1007/covid_19tracker.github.io/static/js/main.a16d6dbe.chunk.js.map",
-    "runtime-main.js": "/kamran1007/covid_19tracker.github.io/static/js/runtime-main.9dc8e9c1.js",
-    "runtime-main.js.map": "/kamran1007/covid_19tracker.github.io/static/js/runtime-main.9dc8e9c1.js.map",
-    "static/js/2.682b037d.chunk.js": "/kamran1007/covid_19tracker.github.io/static/js/2.682b037d.chunk.js",
-    "static/js/2.682b037d.chunk.js.map": "/kamran1007/covid_19tracker.github.io/static/js/2.682b037d.chunk.js.map",
-    "index.html": "/kamran1007/covid_19tracker.github.io/index.html",
-    "precache-manifest.1bad2e50a6cb8f4090fa7c859c6b94b9.js": "/kamran1007/covid_19tracker.github.io/precache-manifest.1bad2e50a6cb8f4090fa7c859c6b94b9.js",
-    "service-worker.js": "/kamran1007/covid_19tracker.github.io/service-worker.js",
-    "static/css/main.d09b88ee.chunk.css.map": "/kamran1007/covid_19tracker.github.io/static/css/main.d09b88ee.chunk.css.map",
-    "static/js/2.682b037d.chunk.js.LICENSE.txt": "/kamran1007/covid_19tracker.github.io/static/js/2.682b037d.chunk.js.LICENSE.txt",
-    "static/media/covid.png": "/kamran1007/covid_19tracker.github.io/static/media/covid.dbc3dfc9.png"
+    "main.css": "/covid_19tracker.github.io/static/css/main.d09b88ee.chunk.css",
+    "main.js": "/covid_19tracker.github.io/static/js/main.a16d6dbe.chunk.js",
+    "main.js.map": "/covid_19tracker.github.io/static/js/main.a16d6dbe.chunk.js.map",
+    "runtime-main.js": "/covid_19tracker.github.io/static/js/runtime-main.5159753f.js",
+    "runtime-main.js.map": "/covid_19tracker.github.io/static/js/runtime-main.5159753f.js.map",
+    "static/js/2.b4c59c6c.chunk.js": "/covid_19tracker.github.io/static/js/2.b4c59c6c.chunk.js",
+    "static/js/2.b4c59c6c.chunk.js.map": "/covid_19tracker.github.io/static/js/2.b4c59c6c.chunk.js.map",
+    "index.html": "/covid_19tracker.github.io/index.html",
+    "precache-manifest.ddebc5831fdc67a2b67a63efc4c0c1b7.js": "/covid_19tracker.github.io/precache-manifest.ddebc5831fdc67a2b67a63efc4c0c1b7.js",
+    "service-worker.js": "/covid_19tracker.github.io/service-worker.js",
+    "static/css/main.d09b88ee.chunk.css.map": "/covid_19tracker.github.io/static/css/main.d09b88ee.chunk.css.map",
+    "static/js/2.b4c59c6c.chunk.js.LICENSE.txt": "/covid_19tracker.github.io/static/js/2.b4c59c6c.chunk.js.LICENSE.txt",
+    "static/media/covid.png": "/covid_19tracker.github.io/static/media/covid.dbc3dfc9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9dc8e9c1.js",
-    "static/js/2.682b037d.chunk.js",
+    "static/js/runtime-main.5159753f.js",
+    "static/js/2.b4c59c6c.chunk.js",
     "static/css/main.d09b88ee.chunk.css",
     "static/js/main.a16d6dbe.chunk.js"
   ]
