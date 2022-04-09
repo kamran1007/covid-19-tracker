@@ -2,4 +2,4 @@
 ithub.io![Screenshot (101)](https://user-images.githubusercontent.com/82281265/162551797-8ca1ac9f-42f4-4349-a45c-b0bd7f9be992.png)
 Run npm i react && npm start to run 
 
-https://kamran1007.github.io/covid_19tracker/
+website: https://kamran1007.github.io/covid_19tracker/
